@@ -34,3 +34,15 @@
 .create-color-button:active {
     transform: scale(.95);
 }
+@media (max-width: 800px) {
+    .Title {
+    font-size: 3rem;
+}
+.hex-color {
+    font-size: 3rem;
+}
+.create-color-button {
+    font-size: 2rem;
+}
+
+}
